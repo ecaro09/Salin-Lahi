@@ -1,0 +1,21 @@
+{
+  "short_name": "Salin-Lahi",
+  "name": "Salin-Lahi Listing Assistant",
+  "description": "An AI-powered assistant to help you create great listings for the Salin-Lahi community app.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#10b981",
+  "background_color": "#fdfaf6"
+}

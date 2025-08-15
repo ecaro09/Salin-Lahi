@@ -1,0 +1,5 @@
+{
+  "name": "Salin-Lahi Listing Assistant",
+  "description": "An AI-powered assistant to help you create great listings for the Salin-Lahi community app. Upload a photo of your item to get suggested titles and a description.",
+  "requestFramePermissions": []
+}
